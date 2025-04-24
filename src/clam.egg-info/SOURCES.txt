@@ -1,0 +1,13 @@
+LICENSE.md
+README.md
+pyproject.toml
+src/clam.egg-info/PKG-INFO
+src/clam.egg-info/SOURCES.txt
+src/clam.egg-info/dependency_links.txt
+src/clam.egg-info/top_level.txt
+src/clam/models/__init__.py
+src/clam/models/builder.py
+src/clam/models/model_clam.py
+src/clam/models/model_mil.py
+src/clam/models/resnet_custom_dep.py
+src/clam/models/timm_wrapper.py
